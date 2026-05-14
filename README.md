@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=João+Pedro+Lorenzetti;Software+Engineer+in+progress+%F0%9F%9A%80;Full+Stack+Developer+%7C+Scrum+Master;Building+things+that+matter." alt="Typing SVG" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=200&section=header&text=João%20Pedro%20Lorenzetti&fontSize=40&fontColor=013220&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Scrum%20Master%20%7C%20Software%20Engineer&descAlignY=58&descSize=16&descFontColor=013220)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+things+that+matter.+%F0%9F%9A%80;Full+Stack+%7C+Scrum+Master+%7C+UTFPR;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
 <br/>
 
